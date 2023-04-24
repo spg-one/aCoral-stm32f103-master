@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "stat.h": "c",
+        "acoral.h": "c",
+        "hal.h": "c",
+        "lsched.h": "c",
+        "stm32f1xx_hal.h": "c",
+        "shell.h": "c",
+        "kernel.h": "c",
+        "error.h": "c",
+        "lib.h": "c",
+        "core.h": "c",
+        "autocfg.h": "c",
+        "thread.h": "c",
+        "type.h": "c",
+        "print.h": "c",
+        "mem.h": "c",
+        "type_traits": "c",
+        "stm32f1xx_hal_tim.h": "c"
+    }
+}
